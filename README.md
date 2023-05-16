@@ -1,9 +1,15 @@
 <h1 align="center">Hello 👋, I'm Ankita Soni</h1>
-<h3 align="center">Computer Science Engineer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Flutter%20Developer;;Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+</p>
+
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aankitasoni&label=Profile%20views&color=0e75b6&style=flat" alt="aankitasoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aankitasoni" alt="aankitasoni" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aankitasoni&theme=onedark)](https://github.com/stp2003/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +28,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aankitasoni&show_icons=true&locale=en" alt="aankitasoni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aankitasoni&" alt="aankitasoni" /></p>
+
+## 💡 Leetcode Statistics
+![](https://leetcard.jacoblin.cool/aankitasoni?ext=activity)
+
+<br>
+
+# 📊 GitHub Contribution Graph:
+
+[![Ankita's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aankitasoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<br>
