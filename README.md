@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Flutter%20Developer;;Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
-
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aankitasoni&label=Profile%20views&color=0e75b6&style=flat" alt="aankitasoni" /> </p>
