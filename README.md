@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aankitasoni&label=Profile%20views&color=0e75b6&style=flat" alt="aankitasoni" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aankitasoni&theme=onedark)](https://github.com/stp2003/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aankitasoni&theme=onedark)](https://github.com/aankitasoni/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
