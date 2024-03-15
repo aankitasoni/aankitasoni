@@ -59,7 +59,7 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aankitasoni&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aankitason/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aankitasoni&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aankitasoni/github-readme-stats) <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aankitasoni&theme=tokyonight&border_radius=7.6)
 
