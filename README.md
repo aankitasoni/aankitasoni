@@ -59,7 +59,7 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aankitasoni&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aankitasoni&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aankitason/github-readme-stats) <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aankitasoni&theme=tokyonight&border_radius=7.6)
 
@@ -67,7 +67,7 @@
 
 # 📊 GitHub Contribution Graph:
 
-[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aankitasoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aankitasoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aankitasoni&theme=tokyonight&border_radius=7.6)
 
